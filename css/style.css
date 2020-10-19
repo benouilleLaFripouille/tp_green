@@ -209,13 +209,13 @@ a.hover{
 .sidebar-item {
   border-radius: 0.5em;
   overflow: hidden;
-  margin-left: 5em;
+  margin-left: 4em;
 }
 
 .sidebar-item-header {
   background: aquamarine;
   color: #fff;
-  font-size: 2.25em;
+  font-size: 2em;
   line-height: 1;
   padding: 1rem;
   text-align: center;
@@ -229,7 +229,7 @@ a.hover{
   text-decoration: none;
 }
 .sidebar-item-menu > * + * {
-  border-top: 2px solid transparent;
+  border-top: 1px solid white;
   color:cadetblue ;
   text-align: center;
   text-decoration: none;
