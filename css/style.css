@@ -137,7 +137,7 @@ table {
 
 header {
   line-height: 1.5;
-  background-color: aquamarine;
+  background-color: #83A697;
   color: white;
   padding: 3.125em;
 }
@@ -213,7 +213,7 @@ a.hover{
 }
 
 .sidebar-item-header {
-  background: aquamarine;
+  background: #83A697;
   color: #fff;
   font-size: 2em;
   line-height: 1;
@@ -236,7 +236,7 @@ a.hover{
 }
 
 .sidebar-item-menu a {
-  background-color:aquamarine;
+  background-color:#83A697;
   display: block;
   line-height: 5;
   padding: 1rem;
@@ -354,7 +354,7 @@ article img {
 /* This part is for the footer */
 
 footer {
-  background-color:aquamarine;
+  background-color:#83A697;
   color: white;
   text-align: center;
   font-size: 0.9em;
